@@ -1,0 +1,17 @@
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\obj\Debug\net8.0\igorf_basicWebApi.DataAccess.csproj.AssemblyReference.cache
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\obj\Debug\net8.0\igorf_basicWebApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\obj\Debug\net8.0\igorf_basicWebApi.DataAccess.AssemblyInfoInputs.cache
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\obj\Debug\net8.0\igorf_basicWebApi.DataAccess.AssemblyInfo.cs
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\obj\Debug\net8.0\igorf_basicWebApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\bin\Debug\net8.0\igorf_basicWebApi.DataAccess.deps.json
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\bin\Debug\net8.0\igorf_basicWebApi.DataAccess.dll
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\bin\Debug\net8.0\igorf_basicWebApi.DataAccess.pdb
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\bin\Debug\net8.0\igorf_basicWebApi.Domain.dll
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\bin\Debug\net8.0\igorF_basicWebApi.Mappers.dll
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\bin\Debug\net8.0\igorf_basicWebApi.Domain.pdb
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\bin\Debug\net8.0\igorF_basicWebApi.Mappers.pdb
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\obj\Debug\net8.0\igorf_ba.C2490CEE.Up2Date
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\obj\Debug\net8.0\igorf_basicWebApi.DataAccess.dll
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\obj\Debug\net8.0\refint\igorf_basicWebApi.DataAccess.dll
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\obj\Debug\net8.0\igorf_basicWebApi.DataAccess.pdb
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.DataAccess\obj\Debug\net8.0\ref\igorf_basicWebApi.DataAccess.dll

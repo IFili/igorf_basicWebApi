@@ -1,0 +1,15 @@
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\bin\Debug\net8.0\igorF_basicWebApi.Mappers.deps.json
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\bin\Debug\net8.0\igorF_basicWebApi.Mappers.dll
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\bin\Debug\net8.0\igorF_basicWebApi.Mappers.pdb
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\bin\Debug\net8.0\igorf_basicWebApi.Domain.dll
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\bin\Debug\net8.0\igorf_basicWebApi.Domain.pdb
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\obj\Debug\net8.0\igorF_basicWebApi.Mappers.csproj.AssemblyReference.cache
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\obj\Debug\net8.0\igorF_basicWebApi.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\obj\Debug\net8.0\igorF_basicWebApi.Mappers.AssemblyInfoInputs.cache
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\obj\Debug\net8.0\igorF_basicWebApi.Mappers.AssemblyInfo.cs
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\obj\Debug\net8.0\igorF_basicWebApi.Mappers.csproj.CoreCompileInputs.cache
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\obj\Debug\net8.0\igorF_ba.A61A10A8.Up2Date
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\obj\Debug\net8.0\igorF_basicWebApi.Mappers.dll
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\obj\Debug\net8.0\refint\igorF_basicWebApi.Mappers.dll
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\obj\Debug\net8.0\igorF_basicWebApi.Mappers.pdb
+C:\Source\igorF_basicWebApi-main\igorF_basicWebApi.Mappers\obj\Debug\net8.0\ref\igorF_basicWebApi.Mappers.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\igorf_basicWebApi.props" />
+</Project>

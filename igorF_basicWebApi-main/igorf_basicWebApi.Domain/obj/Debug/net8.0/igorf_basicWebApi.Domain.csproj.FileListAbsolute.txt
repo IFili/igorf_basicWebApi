@@ -1,0 +1,14 @@
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\bin\Debug\net8.0\igorf_basicWebApi.Domain.deps.json
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\bin\Debug\net8.0\igorf_basicWebApi.Domain.runtimeconfig.json
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\bin\Debug\net8.0\igorf_basicWebApi.Domain.dll
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\bin\Debug\net8.0\igorf_basicWebApi.Domain.pdb
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\obj\Debug\net8.0\igorf_basicWebApi.Domain.csproj.AssemblyReference.cache
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\obj\Debug\net8.0\igorf_basicWebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\obj\Debug\net8.0\igorf_basicWebApi.Domain.AssemblyInfoInputs.cache
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\obj\Debug\net8.0\igorf_basicWebApi.Domain.AssemblyInfo.cs
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\obj\Debug\net8.0\igorf_basicWebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\obj\Debug\net8.0\igorf_basicWebApi.Domain.dll
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\obj\Debug\net8.0\refint\igorf_basicWebApi.Domain.dll
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\obj\Debug\net8.0\igorf_basicWebApi.Domain.pdb
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\obj\Debug\net8.0\igorf_basicWebApi.Domain.genruntimeconfig.cache
+C:\Source\igorF_basicWebApi-main\igorf_basicWebApi.Domain\obj\Debug\net8.0\ref\igorf_basicWebApi.Domain.dll

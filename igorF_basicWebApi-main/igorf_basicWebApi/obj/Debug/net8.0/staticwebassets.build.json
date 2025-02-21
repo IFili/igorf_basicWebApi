@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MCpv6fcxdUr2LRF+EPv14Q0xDLdG6rINyG2lUTfGvq8=",
+  "Source": "igorf_basicWebApi",
+  "BasePath": "_content/igorf_basicWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

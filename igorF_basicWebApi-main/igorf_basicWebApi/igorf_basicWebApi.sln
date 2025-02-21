@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igorf_basicWebApi", "igorf_basicWebApi.csproj", "{109E5382-2311-B437-F2EB-48A9B38863FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igorf_basicWebApi.Domain", "..\igorf_basicWebApi.Domain\igorf_basicWebApi.Domain.csproj", "{B7069965-85D2-4580-88CB-26DF9B0B73F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igorf_basicWebApi.Services", "..\igorf_basicWebApi.Services\igorf_basicWebApi.Services.csproj", "{77FDE057-5F8C-4B25-ADB7-F8133FB3E9AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igorf_basicWebApi.DataAccess", "..\igorf_basicWebApi.DataAccess\igorf_basicWebApi.DataAccess.csproj", "{3105F303-6BD3-4963-852D-6F1CA6DE17E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igorF_basicWebApi.Mappers", "..\igorF_basicWebApi.Mappers\igorF_basicWebApi.Mappers.csproj", "{BADE2A76-7CB0-4BB9-AA4F-56BB9C5F1E2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{109E5382-2311-B437-F2EB-48A9B38863FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109E5382-2311-B437-F2EB-48A9B38863FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109E5382-2311-B437-F2EB-48A9B38863FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109E5382-2311-B437-F2EB-48A9B38863FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7069965-85D2-4580-88CB-26DF9B0B73F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7069965-85D2-4580-88CB-26DF9B0B73F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7069965-85D2-4580-88CB-26DF9B0B73F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7069965-85D2-4580-88CB-26DF9B0B73F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FDE057-5F8C-4B25-ADB7-F8133FB3E9AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FDE057-5F8C-4B25-ADB7-F8133FB3E9AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FDE057-5F8C-4B25-ADB7-F8133FB3E9AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FDE057-5F8C-4B25-ADB7-F8133FB3E9AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3105F303-6BD3-4963-852D-6F1CA6DE17E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3105F303-6BD3-4963-852D-6F1CA6DE17E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3105F303-6BD3-4963-852D-6F1CA6DE17E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3105F303-6BD3-4963-852D-6F1CA6DE17E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADE2A76-7CB0-4BB9-AA4F-56BB9C5F1E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADE2A76-7CB0-4BB9-AA4F-56BB9C5F1E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADE2A76-7CB0-4BB9-AA4F-56BB9C5F1E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADE2A76-7CB0-4BB9-AA4F-56BB9C5F1E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C26DE60-A254-48C3-B459-810ACF6AB963}
+	EndGlobalSection
+EndGlobal
